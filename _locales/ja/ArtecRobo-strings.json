@@ -1,0 +1,7 @@
+{
+  "DCmotion.Forward|block": "正転"
+  ,"DCmotion.Backward|block": "逆転"
+  ,"connectorDCMotor.P0|block": "P0"
+  ,"connectorDCMotor.P1|block": "P1"
+  ,"connectorDCMotor.P2|block": "P2"
+}
